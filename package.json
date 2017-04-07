@@ -1,0 +1,27 @@
+{
+  "name": "Challenge-Recursive-Factorial",
+  "version": "1.0.0",
+  "description": "We are going to implement an algorithm to find the factorial of a given number. A factorial is defined as follows:",
+  "main": "recursiveFactorial.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha --watch tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSlovak/Challenge-Recursive-Factorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSlovak/Challenge-Recursive-Factorial/issues"
+  },
+  "homepage": "https://github.com/JSlovak/Challenge-Recursive-Factorial#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
